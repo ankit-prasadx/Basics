@@ -1,2 +1,2 @@
 # Basics
-# Learning basics fundamentals of Programming
+# Learning and understanding basics fundamentals of Programming
